@@ -5,7 +5,7 @@ Full Stack Developer
 ------------------
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [projectwithdivin@gmail.com](mailto:projectwithdivin@gmail.com)
+*   ✉️  You can contact me at [projectwithdivin@gmail.com](mailto:webxdivin@gmail.com)
 *   🧠  I'm learning Big Data (Hadoop, Hive, Spark)
 *   🤝  I'm open to collaborating on Web Development Projects
 
