@@ -78,14 +78,10 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=WebX-Divin&&style=flat-square" align="center" />
-</div>  
+ 
+<br/>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=WebX-Divin&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-<div align="center> 
-            [![GitHub Streak](https://streak-stats.demolab.com?user=WebX-Divin&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
+ </div>
