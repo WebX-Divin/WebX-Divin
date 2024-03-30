@@ -51,9 +51,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/webx-divin/webx-divin/output/snake.svg" alt="Snake animation" />
-
-###
