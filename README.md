@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Divin Dass and I'm a Fulll stack Flutter Developer.</h2>
+<h2 align="center">Hi 👋! My name is Divin Dass and I'm a Full Stack Flutter Developer.</h2>
 
 ###
 
