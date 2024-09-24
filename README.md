@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is Divin Dass and I'm a Full Stack Flutter Developer.</h2>
+<h2 align="center">👋 Hi, I'm Divin Dass, an App Developer passionate about crafting seamless cross-platform applications. I specialize in building applications using flutter 🚀 .
+
+I enjoy transforming ideas into high-quality applications that solve real-world problems.💡✨</h2>
 
 ###
 
