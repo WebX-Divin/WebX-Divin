@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Divin Dass, a Freelance Website and App Developer. I specialize in building modern, high-performance applications using Flutter, Next.js, Firebase, FastAPI, and WebSockets. With a strong passion for crafting seamless digital experiences, I bring ideas to life by developing scalable, efficient, and user-friendly applications. 🚀💡</h2>
+<h2 align="center">👋 Hi, I'm Divin Dass, a Freelance Website and App Developer. I specialize in building modern, high-performance applications using Flutter, Next.js, Firebase, FastAPI, and WebSockets. 🚀💡</h2>
 
 ###
 
@@ -24,6 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="vercel logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ngrok-logo.png" height="50" alt="ngrok logo"  />
 </div>
 
 ###
