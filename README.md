@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Divin Dass, a Freelance Website and App Developer. I specialize in building modern, high-performance applications using Flutter, Next.js, Firebase, FastAPI, and WebSockets. 🚀💡</h2>
+<h2 align="center">👋 Hi, I'm Divin Dass, a Website and App Developer. I specialize in building modern, high-performance applications using Flutter, Next.js, Firebase, FastAPI, and WebSockets. 🚀💡</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="center">📩 Mail me for freelance projects and collaborations!</h3>
+<h3 align="center">📩 Mail me for projects and collaborations!</h3>
 <div align="center">
   <a href="mailto:divindass709@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
